@@ -10,6 +10,7 @@ linha horizontal: 3 asteriscos ou 3 hífens sozinhos em uma linha
 
 Também é possível __*misturar*__ configurações
 
+---
 
 Lista numerada:
 
@@ -19,6 +20,7 @@ Lista numerada:
    4. por padrão a lista de sub-itens aparece em números romanos.
 7. Removendo os 3 espaços e continuando a lista.
 
+---
 
 Lista demarcada:
 
@@ -28,6 +30,7 @@ Lista demarcada:
 * continuação da lista.
 - Caso troque asterisco por hífen (ou vice versa), será criada uma nova lista.
 
+---
 
 Lista de Tarefas:
 
@@ -37,3 +40,5 @@ Lista de Tarefas:
 - [x] Marcar uma tarefa como concluída:
 - [x] substituir o espaço entre os colchetes por um x
 - [x] - [x]
+
+---

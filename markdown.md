@@ -65,3 +65,43 @@ Elementos | separados por | **Pipe**
 
 ---
 
+* Comandos:
+
+Separar o `comando` por crases
+
+Ex.: `document.getElementById()`
+
+---
+
+* Trecho de programa:
+
+3 crases antes e depois do código
+```
+num=int(input('Digite um valor:'));
+if(num%2==0)
+    print('f\Ovalor {num} e PAR');
+else
+    print('f\Ovalor {num} e IMPAR');
+```
+
+---
+
+* Emojis:
+
+Dois pontos + nome do emoji
+
+[Link com os comandos de emojis](https://github.com/ikatyang/emoji-cheat-sheet)
+
+Ex.: :sleepy:
+
+Obs.: Não funciona no nome de Issues
+
+Para isso, é preciso entrar no [Emojipedia](https://emojipedia.org/), copiar o emoji desejado e colar no local.
+
+---
+
+* Marcações (Quote):
+
+> Sinal de maior + espaço
+
+---

@@ -42,3 +42,26 @@ Lista de Tarefas:
 - [x] - [x]
 
 ---
+
+* Imagem:
+
+**Exclamação** + **Colchetes** com a descrição da imagem dentro + **parênteses** com a url dentro
+
+![Descrição da imagem](https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png)
+
+---
+
+* Link:
+
+[**Colchetes** com a descrição do link dentro + **Parênteses** com a url dentro](https://github.com/rpatricio-souza)
+
+---
+
+* Tabelas:
+
+Elementos | separados por | **Pipe**
+---|---|---
+1 | 1o | elemento
+
+---
+

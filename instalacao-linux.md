@@ -35,7 +35,7 @@
    
    4. Na página do repositório desktop, procurar pelo readme **What is this repository for?** e clique em **[latest releases](https://github.com/shiftkey/desktop/releases)**;
    
-   5. Hoje, dia 15/04/2020, a versão mais atual é a **[2.4.0 Linux RC2](https://github.com/shiftkey/desktop/releases/tag/release-2.4.0-linux2)**;
+   5. Hoje, dia 15/04/2020, a versão mais atual é a **[2.4.1 Linux RC1](https://github.com/shiftkey/desktop/releases/tag/release-2.4.1-linux1)**;
    
    6. Acesse a página da versão mais mais recente (ou desejada), faça o download do arquivo apropriado ao seu SO e faça a instalação via interface gráfica.
    

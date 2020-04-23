@@ -22,6 +22,12 @@
 **2. Instalação do Visual Studio Code**
 
    1. Fazer o download do [site](https://code.visualstudio.com/download), de acordo com sua versão do SO e fazer a instalação via interface gráfica.
+
+   2. Instalação via comando:
+      1. Ir até a pasta onde foi feito o download:
+      `cd /media/rpatricio-souza/Dados/Softwares/linux-deb`
+      2. Executar o comando para instalação (após digitar code, pressione a tecla TAB para completar o nome do arquivo automaticamente):
+      `sudo dpkg --install code`
    
 ---
    

@@ -28,9 +28,13 @@
 
       `cd /media/rpatricio-souza/Dados/Softwares/linux-deb`
       
-      2. Executar o comando para instalação (após digitar code, pressione a tecla TAB para completar o nome do arquivo automaticamente):
+      2. Executar o comando para instalação:
 
       `sudo dpkg --install code`
+
+      3.  Após digitar code, pressione a tecla **TAB** para completar o nome do arquivo automaticamente):
+
+      `sudo dpkg --install code_1.44.1-1586789296_amd64.deb`
    
 ---
    

@@ -27,8 +27,9 @@
       1. Ir até a pasta onde foi feito o download:
 
       `cd /media/rpatricio-souza/Dados/Softwares/linux-deb`
-      2. Executar o comando para instalação (após digitar code, pressione a tecla TAB para completar o nome do arquivo automaticamente):
       
+      2. Executar o comando para instalação (após digitar code, pressione a tecla TAB para completar o nome do arquivo automaticamente):
+
       `sudo dpkg --install code`
    
 ---

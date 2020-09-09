@@ -4,15 +4,18 @@ _Itálico_: 1 asterisco ou 1 underline
 
 ~Tachado~: 1 tio (~)
 
+Também é possível __*misturar*__ configurações
+
+---
+
 # Título nível 1: 1 Hashtag mais espaço antes do texto
 ## Título nível 2: 2 Hashtags
 ### Título nível 3: 3 Hashtags
-linha horizontal: 3 asteriscos ou 3 hífens sozinhos em uma linha
-***
+
 ---
 
-Também é possível __*misturar*__ configurações
-
+linha horizontal: 3 asteriscos ou 3 hífens sozinhos em uma linha
+***
 ---
 
 Lista numerada:

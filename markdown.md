@@ -8,17 +8,19 @@ Também é possível __*misturar*__ configurações
 
 ---
 
+* Títulos:
+
 # Título nível 1: 1 Hashtag mais espaço antes do texto
 ## Título nível 2: 2 Hashtags
 ### Título nível 3: 3 Hashtags
 
 ---
 
-linha horizontal: 3 asteriscos ou 3 hífens sozinhos em uma linha
+* linha horizontal: 3 asteriscos ou 3 hífens sozinhos em uma linha
 ***
 ---
 
-Lista numerada:
+* Lista numerada:
 
 2. um número, que indica o índice inicial da lista e um ponto;
 1. nos itens seguintes, basta colocar um número qualquer e um ponto, que a lista seguirá a ordem de acordo com o índice inicial;
@@ -28,7 +30,7 @@ Lista numerada:
 
 ---
 
-Lista demarcada:
+* Lista demarcada:
 
 * colocar 1 asterisco (ou hífen) e 1 espaço antes do texto;
    * Sub-item: 3 espaços antes do asterisco.
@@ -38,7 +40,7 @@ Lista demarcada:
 
 ---
 
-Lista de Tarefas:
+* Lista de Tarefas:
 
 - [ ] Criar um "checklist":
 - [ ] hífen + espaço + abrir colchetes + espaço + fechar colchetes + espaço
